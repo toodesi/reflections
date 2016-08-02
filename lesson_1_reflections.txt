@@ -1,0 +1,10 @@
+<br>
+diff is easy to read as it shows the two lines next to each other
+fc was a bit hard where it shows 2 blocks
+overall, good thing to learn
+</br>
+
+
+having access to the entire history of a file
+can help you go back to a version
+that has worked in the past
